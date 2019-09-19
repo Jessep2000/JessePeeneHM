@@ -21,5 +21,12 @@ namespace Hotelmanagement_systeem
         {
 
         }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            addReservation newReservation = new addReservation();
+            
+            
+        }
     }
 }

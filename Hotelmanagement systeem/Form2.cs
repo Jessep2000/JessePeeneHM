@@ -15,9 +15,25 @@ namespace Hotelmanagement_systeem
         public addReservation()
         {
             InitializeComponent();
+            this.Show();
         }
 
         private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Label3_Click(object sender, EventArgs e)
         {
 
         }
